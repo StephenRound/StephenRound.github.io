@@ -1,0 +1,1 @@
+For this sketch, I retooled last week's sketch to have customizable parameters for the amount of circles made and the colors used. It plays out exactly the same, and the draw function only has two lines of code actually inside of it now.

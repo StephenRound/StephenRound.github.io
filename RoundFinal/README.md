@@ -4,6 +4,6 @@ This sketch is the next generation of my swords sketch from the sixth week. It u
 
 Overall, it's very fun to look at, and I might mess around with it in the future.  
 
-[The video](https://www.youtube.com/watch?v=AZsyauOpVm0&feature=youtu.be) , recorded during my Christmas party with my phone.
+[The video](https://www.youtube.com/watch?v=AZsyauOpVm0&feature=youtu.be), recorded during my Christmas party with my phone.
 
-The PDF will be included in the files above.
+The PDF will be [found here](https://github.com/StephenRound/StephenRound.github.io/blob/master/RoundFinal/Round_ProgramFinal.pdf).
